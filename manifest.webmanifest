@@ -1,0 +1,11 @@
+{
+  "name": "ECO BOSTONLIQ",
+  "short_name": "ECO BOSTONLIQ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f8f1",
+  "theme_color": "#2e7d32",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
